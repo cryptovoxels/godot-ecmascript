@@ -1,6 +1,6 @@
 ## JavaScript language binding for godot game engine
 
-This module implements JavaScript/TypeScript language support for the godot game engine. [QuickJS](https://bellard.org/quickjs/) is used as the ECMAScript engine.
+This module implements JavaScript/TypeScript language support for the godot game engine. [QuickJS](https://bellard.org/quickjs/) is used as the ECMAScript engine. Forked for Cryptovoxels usage.
 
 -----
 
